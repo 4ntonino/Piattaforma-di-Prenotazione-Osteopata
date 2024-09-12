@@ -173,8 +173,8 @@ const AddNewDoctor = () => {
                         required
                       >
                         <option value="">Seleziona genere</option>
-                        <option value="uomo">Uomo</option>
-                        <option value="donna">Donna</option>
+                        <option value="Uomo">Uomo</option>
+                        <option value="Donna">Donna</option>
                       </Form.Select>
                     </Form.Group>
                     <Form.Group className="mb-3">
